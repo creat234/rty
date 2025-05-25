@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <title>আমাদের Facebook পেজ</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            background: #f0f2f5;
+            font-family: 'Segoe UI', sans-serif;
+            text-align: center;
+            padding-top: 100px;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 30px;
+        }
+        .button {
+            display: inline-block;
+            background-color: #1877f2;
+            color: white;
+            padding: 20px 40px;
+            border-radius: 50px;
+            font-size: 20px;
+            text-decoration: none;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+            transition: background-color 0.3s ease;
+        }
+        .button:hover {
+            background-color: #0d6efd;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>আমাদের Facebook পেজে ঘুরে আসুন!</h1>
+    <a class="button" href="https://www.facebook.com/profile.php?id=61572282418529">পেজে যান</a>
+
+</body>
+</html>
